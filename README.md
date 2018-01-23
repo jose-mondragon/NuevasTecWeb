@@ -1,0 +1,2 @@
+# NuevasTecWeb
+entrenamiento practicas
